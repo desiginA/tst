@@ -1,22 +1,3 @@
-// ==UserScript==
-// @version       4.1.1
-// @icon          https://www.youtube.com/favicon.ico
-// @author        necros & dislido
-// @match         *://www.youtube.com/*
-// @match         *://accounts.google.com/*
-// @match         *://twitter.com/*
-// @grant         unsafeWindow
-// @grant         GM_xmlhttpRequest
-// @grant         GM_log
-// @grant         window.close
-// @grant         GM_notification
-// @grant         GM_setValue
-// @grant         GM_getValue
-// @connect       localhost
-// @namespace     https://greasyfork.org/zh-CN/users/692472-necrosn
-// @description   youtube 独轮车
-// @name          Youtube独轮车-Auto Youtube Chat Sender
-// ==/UserScript==
 /******/ (() => { // webpackBootstrap
 /******/ 	
 /******/ 	var __webpack_modules__ = ({
